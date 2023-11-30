@@ -20,3 +20,7 @@
 <p>⁎ Object Oriented Programming(OOP).</p> 
 <p>⁎ Data Structure. </p>
 <p>⁎ Java. </p>
+
+<h3>Front-end Development </h2>
+<p>Competitive Programming</p>
+<p>⁎ Object Oriented Programming(OOP).</p> 

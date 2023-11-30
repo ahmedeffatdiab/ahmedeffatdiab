@@ -6,4 +6,8 @@
   <a href="" ><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram-&logoColor=white" alt="image"/></a>
 </p>
 <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%" alt="image"/>
-I' a software developer I graduated from faculty of computers and informatics of zagazig university I specialized as computer science department and Now I work as front-end developer with Reactjs
+
+<p>
+  I' a software developer I graduated from faculty of computers and informatics of zagazig university I specialized as computer science department and Now I work as front-end developer and enjoy working with javascript , Reactjs and typeScript
+</p>
+ 

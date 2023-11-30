@@ -15,5 +15,4 @@
 <h6>⭐ I attend tranning 120 hour in ITI 2022. </h6>
 <h6>⭐ I attend front-end deploma in Route 2022. </h6>
 
-<h2>What I know </h2>
-<hr width="25%"></hr>
+<h2>What I know 💻 </h2>

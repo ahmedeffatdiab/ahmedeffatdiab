@@ -17,6 +17,6 @@
 
 <h2>What I know 💻 </h2>
 <p>Competitive Programming</p>
-<p>* Object Oriented Programming(OOP).</p> 
+<p>⁎ Object Oriented Programming(OOP).</p> 
 <p>* Data Structure. </p>
 <p>* Java. </p>

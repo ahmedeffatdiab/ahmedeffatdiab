@@ -15,4 +15,8 @@
 <h6>⭐ I attend tranning 120 hour in ITI 2022. </h6>
 <h6>⭐ I attend front-end deploma in Route 2022. </h6>
 
-<h2>What I know 💻 </h2>
+<h3>What I know 💻 </h3>
+<p>Competitive Programming</p>
+*Object Oriented Programming(OOP). 
+*Data Structure.
+*Java

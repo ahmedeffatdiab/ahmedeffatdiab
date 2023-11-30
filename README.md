@@ -8,6 +8,6 @@
 <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%" alt="image"/>
 
 <p>
-  I' a software developer I graduated from faculty of computers and informatics of zagazig university I specialized as computer science department and Now I work as front-end developer and enjoy working with javascript , Reactjs and typeScript
+  " I' a software developer I graduated from faculty of computers and informatics of zagazig university I specialized as computer science department and Now I work as front-end developer and enjoy working with javascript , Reactjs and typeScript "
 </p>
  

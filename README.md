@@ -12,3 +12,4 @@
 </p>
  
 <h6>⭐ I taked the 4th place in the Google Solution Challenge Egypt 2023. </h6>
+<h6>⭐ I attend tranning 120 hour in ITI </h6>

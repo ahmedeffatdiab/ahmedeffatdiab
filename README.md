@@ -22,10 +22,10 @@
 <p>⁎ Java. </p>
 
 <p>👉 Front-end Development </p>
-<span width="150">
+<span align="start">
     ahmed
 </span>
-<span >
+<span align="center">
     effat
 </span>
 <p>⁎ <img width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9v00g4XP1X0sFzxp64FIBSIgchtoRkAZSj_fjzq75u16gd3RcOmWYHJazTTHc6WSt30&usqp=CAU"> HTML5</p>

@@ -29,7 +29,7 @@
     <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/524px-JQuery-Logo.svg.png"> JQuery</p>
     <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"> Bootstrap</p>
 </span>
-<span style="float: left;">
+<span style="float: right;">
     <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png"> Sass</p>
     <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png"> Adobe xd</p>
     <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"> Reactjs</p>

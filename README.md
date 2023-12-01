@@ -5,6 +5,8 @@
         .float-right {
           float:right
         }
+        h1{
+                color:red
  </style>
 <h1 align="center">Hi, I'm Ahmed Effat👋 </h1>
 <p align="center">

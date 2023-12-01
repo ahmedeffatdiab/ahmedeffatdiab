@@ -22,7 +22,7 @@
 <p>⁎ Java. </p>
 
 <p>👉 Front-end Development </p>
-<span width="25%">
+<span align="25%">
     ahmed
 </span>
 <span >

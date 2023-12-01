@@ -22,10 +22,8 @@
 <p>⁎ Java. </p>
 
 <p>👉 Front-end Development </p>
-<p>⁎ HTML</p>
 <p>⁎ <img width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9v00g4XP1X0sFzxp64FIBSIgchtoRkAZSj_fjzq75u16gd3RcOmWYHJazTTHc6WSt30&usqp=CAU"> HTML5</p>
-<p>⁎ CSS</p>
-<p>⁎ CSS3</p>
+<p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png"> CSS3</p>
 <p>⁎ javascript</p>
 <p>⁎ JQuery</p>
 <p>⁎ Bootstrap</p>

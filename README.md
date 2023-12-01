@@ -1,18 +1,4 @@
-<html>
-     <head>
-        <style>
-        .float-left {
-          float:left
-        }
-        .float-right {
-          float:right
-        }
-        h1{
-                color:red
-        }
- </style>
-     </head>   
-     <body>
+
      <h1 align="center">Hi, I'm Ahmed Effat👋 </h1>
 <p align="center">
   <a href="" ><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white" alt="image"/></a>
@@ -52,8 +38,6 @@
     <p>⁎ <img width="25px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"> Rudex</p>
 </span>
 
-     </body>
-</html>
 
 
 

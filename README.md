@@ -1,4 +1,6 @@
-<style>
+<html>
+     <head>
+        <style>
         .float-left {
           float:left
         }
@@ -9,7 +11,9 @@
                 color:red
         }
  </style>
-<h1 align="center">Hi, I'm Ahmed Effat👋 </h1>
+     </head>   
+     <body>
+     <h1 align="center">Hi, I'm Ahmed Effat👋 </h1>
 <p align="center">
   <a href="" ><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white" alt="image"/></a>
   <a href="" ><img src="https://img.shields.io/badge/linkedin-%23017785?style=flat&logo=linkedin&logoColor=white" alt="image"/></a>
@@ -44,6 +48,11 @@
     <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png"> Sass</p>
     <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png"> Adobe xd</p>
     <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"> Reactjs</p>
+     </body>
+</html>
+
+
+
     <p>⁎ <img width="25px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Qj17HL0m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/emdosd9tj8bfly5is35y.png"> Context</p>
     <p>⁎ <img width="25px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"> Rudex</p>
 </span>

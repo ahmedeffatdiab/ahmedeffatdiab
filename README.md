@@ -1,3 +1,12 @@
+ <style>
+        .container {
+          display: flex;
+          width: 100%;
+          height: 300px;
+          background-color: black;
+          color: white;
+        }
+      </style>
 <h1 align="center">Hi, I'm Ahmed Effat👋 </h1>
 <p align="center">
   <a href="" ><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white" alt="image"/></a>
@@ -39,22 +48,11 @@
 
 <span>ahmed</span>
 <span>ahmed</span>
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          background-color: black;
-          color: white;
-        }
-      </style>
+
+     
 
       <div class="container">
         <h1>Hi there, my name is Nikola 👋</h1>
       </div>
     </div>
-  </foreignObject>
-</svg>
+

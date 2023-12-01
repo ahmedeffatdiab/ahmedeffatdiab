@@ -45,7 +45,4 @@
 
      
 
-      <div class="container">
-        <h1>Hi there, my name is Nikola 👋</h1>
-      </div>
-
+     

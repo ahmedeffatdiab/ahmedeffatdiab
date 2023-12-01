@@ -37,7 +37,7 @@
 <p>⁎ <img width="25px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"> Rudex</p>
 </span>
 
-<div style="border:none" >
+<table style="border:none" >
   <tr>
     <th>Firstname</th>
     <th>Lastname</th> 
@@ -58,4 +58,4 @@
     <td>Doe</td>
     <td>80</td>
   </tr>
-</div>
+</table>

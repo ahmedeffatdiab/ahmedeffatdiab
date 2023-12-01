@@ -37,3 +37,12 @@
 <p>⁎ <img width="25px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"> Rudex</p>
 </span>
 
+<div style="float: left; margin-right: 20px;">
+  <img src="image1.jpg" alt="Image 1" width="200" />
+  <p>Caption for Image 1</p>
+</div>
+
+<div style="float: left;">
+  <img src="image2.jpg" alt="Image 2" width="200" />
+  <p>Caption for Image 2</p>
+</div>

@@ -39,7 +39,16 @@
 
 
 
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex-basis: 48%;">
+        <p>Caption for Image 1</p>
+    </div>
+    
+    <div style="flex-basis: 48%;">
 
+        <p>Caption for Image 2</p>
+    </div>
+</div>
     
 
      

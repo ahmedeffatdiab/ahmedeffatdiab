@@ -29,7 +29,7 @@
 <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/524px-JQuery-Logo.svg.png"> JQuery</p>
 <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"> Bootstrap</p>
 </div>
-<div style="float:left">
+<div style="float:right">
   <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png"> Sass</p>
 <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png"> Adobe xd</p>
 <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"> Reactjs</p>
@@ -37,19 +37,4 @@
 <p>⁎ <img width="25px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"> Rudex</p>
 
 </div>
-<table style="width:100%">
-  <tr>
-    <th>Person 1</th>
-    <th>Person 2</th>
-  </tr>
-  <tr>
-    <td>Emil</td>
-    <td>Tobias</td>
-    <td>Linus</td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td>14</td>
-    <td>10</td>
-  </tr>
-</table>
+

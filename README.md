@@ -39,17 +39,22 @@
 
 <span>ahmed</span>
 <span>ahmed</span>
-<svg xmlns="http://www.w3.org/2000/svg" height="40">
-    <style src="./style.css" >
-        .subTitle {
-            fill: #00FFFF;
-            transition: fill .3s ease;
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          width: 100%;
+          height: 300px;
+          background-color: black;
+          color: white;
         }
-    </style>
+      </style>
 
- <g class="subTitle">
-        <text x="30%" y="10" dy=".35em">
-            TypeScript Jobs
-        </text>
-    </g>
+      <div class="container">
+        <h1>Hi there, my name is Nikola 👋</h1>
+      </div>
+    </div>
+  </foreignObject>
 </svg>

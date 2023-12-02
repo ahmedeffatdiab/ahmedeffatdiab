@@ -22,12 +22,12 @@
 <p>⁎ Java. </p>
 
 <p>👉 Front-end Development </p>
-<span width="50%" >
+<div width="50%" >
     ahmed
-</span>
-<span width="25%">
+</div>
+<div width="25%">
     effat
-</span>
+</div>
 <p>⁎ <img width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9v00g4XP1X0sFzxp64FIBSIgchtoRkAZSj_fjzq75u16gd3RcOmWYHJazTTHc6WSt30&usqp=CAU"> HTML5</p>
     <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png"> CSS3</p>
     <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/146px-Javascript_badge.svg.png?20160504163251"> javascript</p>

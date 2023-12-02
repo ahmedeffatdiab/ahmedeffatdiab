@@ -22,7 +22,7 @@
 <p>⁎ Java. </p>
 
 <p>👉 Front-end Development </p>
-<span style="color:red">
+<span >
     ahmed
 </span>
 <span >
@@ -41,6 +41,18 @@
     <p>⁎ <img width="25px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"> Rudex</p>
 
 
-     
+     <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <style>
+        /* your CSS */
+      </style>
+
+      <!-- your HTML -->
+
+    </div>
+  </foreignObject>
+</svg>
 
      

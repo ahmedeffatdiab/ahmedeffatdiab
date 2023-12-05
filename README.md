@@ -41,7 +41,7 @@
     <p>⁎ <img width="25px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"> Rudex</p>
 
 
-Column 1 Header | Column 2 Header | Column 3 Header
+Column 1 Header                                                                                   | Column 2 Header | Column 3 Header
 --------------- | --------------- | ---------------
 Data 1          | Data A          | Value X
 Data 2          | Data B          | Value Y

@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/ahmed-effat-787a7a243/" ><img src="https://img.shields.io/badge/linkedin-%23017785?style=flat&logo=linkedin&logoColor=white" alt="image"/></a>
   <a href="https://www.youtube.com/channel/UCjlRkmDmcD0kjFDmJXTCCZQ" ><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white" alt="image"/></a>
 <!--   <a href="#" ><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram-&logoColor=white" alt="image"/></a> -->
- <a href="#" ><img src="[https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram-&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="image"/></a> 
+ <a href="#" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="image"/></a> 
 </p>
 <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%" alt="image"/>
 

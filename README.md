@@ -34,6 +34,10 @@
      <p>⁎ <img width="25px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Qj17HL0m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/emdosd9tj8bfly5is35y.png"> Context</p>
     <p>⁎ <img width="25px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"> Rudex</p>
 
-
+<p align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png" align="left">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/524px-JQuery-Logo.svg.png">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" align="right">
+</p>
 
      

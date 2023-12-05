@@ -43,8 +43,8 @@
 
 | Column 1 Header | Column 2 Header | Column 3 Header |
 | --------------- | --------------- | --------------- |
-| Data 1          | Data A          | Value X         |
-| Data 2          | Data B          | Value Y         |
-| Data 3          | Data C          | Value Z         |
+  Data 1            Data A            Value X         
+  Data 2            Data B            Value Y         
+  Data 3            Data C            Value Z         
 
      

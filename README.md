@@ -39,7 +39,7 @@
 Content for Element 1            | Content for Element 2
 
 Element 1 | Element 2
-----------|----------
+
 Content for Element 1 | Content for Element 2
 
      

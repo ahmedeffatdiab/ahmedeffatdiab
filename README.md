@@ -40,20 +40,7 @@
      <p>⁎ <img width="25px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Qj17HL0m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/emdosd9tj8bfly5is35y.png"> Context</p>
     <p>⁎ <img width="25px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"> Rudex</p>
 
-<table cellpadding="1" cellspacing="1" height="125" width="1037">
-<tbody>       
-<tr class='border-row'>
-<td style="width: 254px">Main Title</td>
-<td style="width: 639px">&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr class = 'no-border-row'>
-<td style="width: 254px">Lots of Contents Column I</td>
-<td style="width: 639px">Lots of Contents Column II</td>
-<td>Lots of Contents Column III</td>
-</tr>
-</tbody>
-</table>
+
 
 
      

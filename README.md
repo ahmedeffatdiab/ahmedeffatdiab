@@ -35,9 +35,9 @@
     <p>⁎ <img width="25px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"> Rudex</p>
 
 <p align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png" align="left" width="30px">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/524px-JQuery-Logo.svg.png" width="30px">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" align="right" width="30px">
+  <span align="left">ahmed</span>
+  <span >ahmed</span>
+  <span align="right">ahmed</span>
 </p>
 
      

@@ -34,9 +34,9 @@
      <p>⁎ <img width="25px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Qj17HL0m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/emdosd9tj8bfly5is35y.png"> Context</p>
     <p>⁎ <img width="25px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"> Rudex</p>
 
-<p align="center">
+<p >
   <span align="left">ahmed</span>
-  <span >ahmed</span>
+  <span align="center">ahmed</span>
   <span align="right">ahmed</span>
 </p>
 

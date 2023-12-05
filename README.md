@@ -37,30 +37,3 @@
      <p>⁎ <img width="25px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Qj17HL0m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/emdosd9tj8bfly5is35y.png"> Context</p>
     <p>⁎ <img width="25px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"> Rudex</p>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    .flex-container {
-      display: flex;
-    }
-
-    .flex-item {
-      margin: 10px;
-      padding: 20px;
-      border: 1px solid #ccc;
-    }
-  </style>
-</head>
-<body>
-
-<div class="flex-container">
-  <div class="flex-item">Element 1</div>
-  <div class="flex-item">Element 2</div>
-</div>
-
-</body>
-</html>
-     

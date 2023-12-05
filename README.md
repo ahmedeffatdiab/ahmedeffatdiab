@@ -8,7 +8,7 @@
 <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%" alt="image"/>
 
 <p>
-  " I' a Software Developer I graduated from Faculty of Computers and Informatics of Zagazig University I specialized as Computer Science department and Now I work as Front-end developer and enjoy working with Javascript , Reactjs and TypeScript. "
+  " I'm a Software Developer I graduated from Faculty of Computers and Informatics of Zagazig University I specialized as Computer Science department and Now I work as Front-end developer and enjoy working with Javascript , Reactjs and TypeScript. "
 </p>
  
 <h6>⭐ I taked the 4th place in the Google Solution Challenge Egypt 2023. </h6>

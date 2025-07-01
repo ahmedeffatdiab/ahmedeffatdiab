@@ -37,40 +37,18 @@
      <p>⁎ <img width="25px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Qj17HL0m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/emdosd9tj8bfly5is35y.png"> Context</p>
     <p>⁎ <img width="25px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"> Rudex</p>
 
-<p>👉 Front-end Development</p>
+👉 **Front-end Development**
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: start; gap: 10px;">
-  <div style="flex: 1 1 45%;">
-    <p>⁎ <img width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9v00g4XP1X0sFzxp64FIBSIgchtoRkAZSj_fjzq75u16gd3RcOmWYHJazTTHc6WSt30&usqp=CAU"> HTML5</p>
-    <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png"> CSS3</p>
-    <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/146px-Javascript_badge.svg.png?20160504163251"> JavaScript</p>
-    <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/524px-JQuery-Logo.svg.png"> JQuery</p>
-    <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"> Bootstrap</p>
-  </div>
-  <div style="flex: 1 1 45%;">
-    <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png"> Sass</p>
-    <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png"> Adobe XD</p>
-    <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"> ReactJS</p>
-    <p>⁎ <img width="25px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Qj17HL0m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/emdosd9tj8bfly5is35y.png"> Context</p>
-    <p>⁎ <img width="25px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"> Redux</p>
-  </div>
-</div>
-<div>
-  <div style="display:inline-block; vertical-align:top; width:48%;">
-    <p>⁎ <img width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9v00g4XP1X0sFzxp64FIBSIgchtoRkAZSj_fjzq75u16gd3RcOmWYHJazTTHc6WSt30&usqp=CAU"> HTML5</p>
-    <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png"> CSS3</p>
-    <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/146px-Javascript_badge.svg.png?20160504163251"> JavaScript</p>
-    <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/524px-JQuery-Logo.svg.png"> JQuery</p>
-    <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"> Bootstrap</p>
-  </div>
+**Column 1:**
+- ![HTML5](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9v00g4XP1X0sFzxp64FIBSIgchtoRkAZSj_fjzq75u16gd3RcOmWYHJazTTHc6WSt30&usqp=CAU) HTML5  
+- ![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png) CSS3  
+- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/146px-Javascript_badge.svg.png?20160504163251) JavaScript  
+- ![JQuery](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/524px-JQuery-Logo.svg.png) JQuery  
+- ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png) Bootstrap  
 
-  <div style="display:inline-block; vertical-align:top; width:48%;">
-    <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png"> Sass</p>
-    <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png"> Adobe XD</p>
-    <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"> ReactJS</p>
-    <p>⁎ <img width="25px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Qj17HL0m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/emdosd9tj8bfly5is35y.png"> Context</p>
-    <p>⁎ <img width="25px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"> Redux</p>
-  </div>
-</div>
-
-
+**Column 2:**
+- ![Sass](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png) Sass  
+- ![Adobe XD](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png) Adobe XD  
+- ![ReactJS](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png) ReactJS  
+- ![Context](https://res.cloudinary.com/practicaldev/image/fetch/s--Qj17HL0m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/emdosd9tj8bfly5is35y.png) Context  
+- ![Redux](https://cdn.worldvectorlogo.com/logos/redux.svg) Redux

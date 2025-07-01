@@ -39,16 +39,16 @@
 
 <p><strong>👉 Front-end Development</strong></p>
 
-<table width="100%">
+<table width="100%" cellspacing="10" cellpadding="0">
   <tr>
-    <td width="48%" valign="top">
+    <td width="50%" valign="top">
       <p>⁎ <img width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9v00g4XP1X0sFzxp64FIBSIgchtoRkAZSj_fjzq75u16gd3RcOmWYHJazTTHc6WSt30&usqp=CAU"> HTML5</p>
       <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"> CSS3</p>
       <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg"> JavaScript</p>
       <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg"> JQuery</p>
       <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"> Bootstrap</p>
     </td>
-    <td width="48%" valign="top">
+    <td width="50%" valign="top">
       <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"> Sass</p>
       <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg"> Adobe XD</p>
       <p>⁎ <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"> ReactJS</p>
@@ -57,4 +57,5 @@
     </td>
   </tr>
 </table>
+
 

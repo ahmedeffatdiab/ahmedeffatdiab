@@ -38,4 +38,73 @@
     <p>⁎ <img width="25px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"> Rudex</p>
 
 
+# Hi there, I'm Ahmed Ismael 👋
+
+### Frontend Developer | React, JavaScript, Next.js  
+**Building High-Performance, Scalable Web Applications**
+
+Full Stack Developer specializing in front-end technologies like **React** and **Next.js**, with **1 year** of experience in performance optimization, SEO, and scalable architectures.  
+Passionate about building responsive and high-performance web applications.
+
+---
+
+## 🧠 Skills & Expertise
+
+### 🖥️ Frontend  
+- React.js  
+- Next.js  
+- JavaScript  
+- HTML5, CSS3  
+- Responsive Web Design  
+
+### 🗄️ Backend  
+- Node.js  
+- Express.js  
+- MongoDB  
+
+### 🧩 Developer Skills  
+- Performance Optimization  
+- SEO Best Practices  
+- Reusable Component Architecture  
+- Clean Code & Testing  
+- Git & Version Control  
+
+### 🛠️ Tools & Workflow  
+- Visual Studio Code  
+- Git & GitHub  
+- Chrome DevTools  
+- Postman  
+- Figma  
+
+---
+
+## 📚 Courses & Certificates
+
+### 🧑‍💻 Front-End Developer Course – Route Academy  
+> Mastered front-end foundations: HTML, CSS, JavaScript, React.js
+
+### 🌐 Full Stack Developer Program (MERN Stack) – Digital Egypt Pioneers Initiative (DEPI)  
+> Built full-stack applications using MongoDB, Express.js, React.js, Node.js
+
+### 🗣️ Business English Track – OTO Courses  
+> Developed soft skills: email writing, financial proposals, adaptability & collaboration
+
+---
+
+## 🚀 Current Focus
+
+- 🔭 Developing full-stack apps with **Next.js**  
+- 🧩 Deepening expertise in **backend technologies** like **Node.js** & **MongoDB**  
+- 🧪 Writing clean, testable front-end code and building a **reusable component library**  
+- ✨ Exploring advanced React patterns and **animation & UI design with Gsap**
+
+---
+
+## 📬 Let’s Connect
+
+- 💼 Open to freelance work or front-end positions — [LinkedIn](#) *(replace with your LinkedIn URL)*  
+- 🌐 Explore my [Portfolio Website](#) *(replace with your portfolio URL)*  
+- 📧 Email: **ahmed.elmhlawyy@gmail.com**  
+- 📱 Phone: **+20 128 969 9790**
+
 

@@ -37,9 +37,56 @@
      <p>⁎ <img width="25px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Qj17HL0m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/emdosd9tj8bfly5is35y.png"> Context</p>
     <p>⁎ <img width="25px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"> Rudex</p>
 
+<!-- React -->
 <a href="https://reactjs.org">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
 </a>
+
+<!-- Next.js -->
+<a href="https://nextjs.org">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge"/>
+</a>
+
+<!-- Redux -->
+<a href="https://redux.js.org">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>
+</a>
+
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+</a>
+
+<!-- TypeScript -->
+<a href="https://www.typescriptlang.org">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+</a>
+
+<!-- UI/UX (using Figma icon) -->
+<a href="https://www.figma.com">
+  <img src="https://img.shields.io/badge/UI/UX-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Badge"/>
+</a>
+
+<!-- Tailwind CSS -->
+<a href="https://tailwindcss.com">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS Badge"/>
+</a>
+
+<!-- Material UI -->
+<a href="https://mui.com">
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI Badge"/>
+</a>
+
+<!-- Shadcn UI (no logo available, using default style) -->
+<a href="https://ui.shadcn.com">
+  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Shadcn UI Badge"/>
+</a>
+
+<!-- Bootstrap -->
+<a href="https://getbootstrap.com">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
+</a>
+
 
 
 

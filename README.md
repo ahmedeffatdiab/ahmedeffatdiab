@@ -99,27 +99,7 @@
 
 </p>
 
-
-<p>👉 Competitive Programming</p>
-<p align="left">
-
-  <!-- Data Structure -->
-  <img src="https://img.shields.io/badge/Data%20Structure-blue?style=flat-square&color=blue" alt="Data Structure Badge"/>
-
-  <!-- Algorithm -->
-  <img src="https://img.shields.io/badge/Algorithm-blue?style=flat-square&color=blue" alt="Algorithm Badge"/>
-
-  <!-- OOP -->
-  <img src="https://img.shields.io/badge/OOP-blue?style=flat-square&color=blue" alt="OOP Badge"/>
-
-  <!-- Java -->
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&color=007396&logo=java&logoColor=white" alt="Java Badge"/>
-
-  <!-- Web Performance Optimization -->
-  <img src="https://img.shields.io/badge/Web%20Performance%20Optimization-green?style=flat-square&color=green" alt="Web Performance Optimization Badge"/>
-
-</p>
-<p>👉 Tool & Testing Badges</p>
+<p>👉 Tools & Testing & Workflow </p>
 <p align="left">
 
   <!-- Git -->
@@ -142,6 +122,27 @@
 
   <!-- Unit Testing -->
   <img src="https://img.shields.io/badge/Unit%20Testing-6E6E6E?style=flat-square&logo=testcontainers&logoColor=white" alt="Unit Testing Badge"/>
+
+</p>
+
+
+<p>👉 Competitive Programming</p>
+<p align="left">
+
+  <!-- Data Structure -->
+  <img src="https://img.shields.io/badge/Data%20Structure-blue?style=flat-square&color=blue" alt="Data Structure Badge"/>
+
+  <!-- Algorithm -->
+  <img src="https://img.shields.io/badge/Algorithm-blue?style=flat-square&color=blue" alt="Algorithm Badge"/>
+
+  <!-- OOP -->
+  <img src="https://img.shields.io/badge/OOP-blue?style=flat-square&color=blue" alt="OOP Badge"/>
+
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&color=007396&logo=java&logoColor=white" alt="Java Badge"/>
+
+  <!-- Web Performance Optimization -->
+  <img src="https://img.shields.io/badge/Web%20Performance%20Optimization-green?style=flat-square&color=green" alt="Web Performance Optimization Badge"/>
 
 </p>
 

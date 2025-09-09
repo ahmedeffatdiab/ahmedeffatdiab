@@ -20,9 +20,16 @@
 
 <h2>What I know 💻 </h2>
 <p>👉 Competitive Programming</p>
-<p>⁎ Object Oriented Programming (OOP).</p> 
-<p>⁎ Data Structure. </p>
-<p>⁎ Java. </p>
+<p align="left">
+
+  <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-0a0a0a?style=flat-square&color=blue&labelColor=0a0a0a" alt="OOP Badge"/>
+
+  <img src="https://img.shields.io/badge/Data%20Structure-Theory%20%26%20Implementation-0a0a0a?style=flat-square&color=blue&labelColor=0a0a0a" alt="Data Structures Badge"/>
+
+  <img src="https://img.shields.io/badge/Java-Programming%20Language-0a0a0a?style=flat-square&logo=java&logoColor=white&color=007396" alt="Java Badge"/>
+
+</p>
+
 
 <p>👉 Front-end Development </p>
 <p align="left">

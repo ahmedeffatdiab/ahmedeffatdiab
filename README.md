@@ -37,10 +37,11 @@
      <p>⁎ <img width="25px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Qj17HL0m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/emdosd9tj8bfly5is35y.png"> Context</p>
     <p>⁎ <img width="25px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"> Rudex</p>
 
-<div style="border: 1px solid #ccc; padding: 10px; display: flex; align-items: center; width: fit-content;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React Logo" width="40" height="40" style="margin-right: 10px;">
-  <span style="font-size: 20px; font-weight: bold;">React</span>
+<div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 16px; width: 140px; text-align: center; background-color: #f9f9f9;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="Vue Logo" width="50" height="50" style="margin-bottom: 8px;">
+  <div style="font-size: 16px; font-weight: 600; color: #2c3e50;">Vue.js</div>
 </div>
+
 
 
 

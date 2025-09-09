@@ -61,6 +61,10 @@
 <a href="https://reactjs.org/docs/context.html" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Context_API-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="Context API Badge"/>
 </a>
+  <!-- UI/UX -->
+  <a href="https://www.figma.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/UI/UX-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="UI/UX Badge"/>
+  </a>
 
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com" style="text-decoration: none;">
@@ -94,10 +98,7 @@
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML Badge"/>
   </a>
 
-  <!-- UI/UX -->
-  <a href="https://www.figma.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/UI/UX-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="UI/UX Badge"/>
-  </a>
+
 
 
 

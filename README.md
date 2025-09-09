@@ -119,7 +119,31 @@
   <img src="https://img.shields.io/badge/Web%20Performance%20Optimization-green?style=flat-square&color=green" alt="Web Performance Optimization Badge"/>
 
 </p>
+<p>👉 Tool & Testing Badges</p>
+<p align="left">
 
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge"/>
+
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
+
+  <!-- Webpack -->
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack Badge"/>
+
+  <!-- Adobe XD -->
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white" alt="Adobe XD Badge"/>
+
+  <!-- Figma -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma Badge"/>
+
+  <!-- Postman -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman Badge"/>
+
+  <!-- Unit Testing -->
+  <img src="https://img.shields.io/badge/Unit%20Testing-6E6E6E?style=flat-square&logo=testcontainers&logoColor=white" alt="Unit Testing Badge"/>
+
+</p>
 
 
 

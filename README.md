@@ -19,18 +19,6 @@
 <h6>⭐ I take front-end develpoment from Udacity 2021 . </h6>
 
 <h2>What I know 💻 </h2>
-<p>👉 Competitive Programming</p>
-<p align="left">
-
-  <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-0a0a0a?style=flat-square&color=blue&labelColor=0a0a0a" alt="OOP Badge"/>
-
-  <img src="https://img.shields.io/badge/Data%20Structure-Theory%20%26%20Implementation-0a0a0a?style=flat-square&color=blue&labelColor=0a0a0a" alt="Data Structures Badge"/>
-
-  <img src="https://img.shields.io/badge/Java-Programming%20Language-0a0a0a?style=flat-square&logo=java&logoColor=white&color=007396" alt="Java Badge"/>
-
-</p>
-
-
 <p>👉 Front-end Development </p>
 <p align="left">
 
@@ -83,6 +71,25 @@
   <a href="https://getbootstrap.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
   </a>
+
+</p>
+<p>👉 Competitive Programming</p>
+<p align="left">
+
+  <!-- Data Structure -->
+  <img src="https://img.shields.io/badge/Data%20Structure-Theory%20%26%20Implementation-0a0a0a?style=flat-square&color=blue&labelColor=0a0a0a" alt="Data Structure Badge"/>
+
+  <!-- Algorithm -->
+  <img src="https://img.shields.io/badge/Algorithm-Problem%20Solving-0a0a0a?style=flat-square&color=blue&labelColor=0a0a0a" alt="Algorithm Badge"/>
+
+  <!-- OOP -->
+  <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-0a0a0a?style=flat-square&color=blue&labelColor=0a0a0a" alt="OOP Badge"/>
+
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-Programming%20Language-007396?style=flat-square&logo=java&logoColor=white" alt="Java Badge"/>
+
+  <!-- Web Performance Optimization -->
+  <img src="https://img.shields.io/badge/Web%20Performance-Optimization-0a0a0a?style=flat-square&color=green&labelColor=0a0a0a" alt="Web Performance Optimization Badge"/>
 
 </p>
 

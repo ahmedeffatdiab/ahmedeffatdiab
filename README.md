@@ -148,10 +148,10 @@
 
 <h4>📄 Contact Details </h4>
 
-  - 📍 **Address:** 123 Example Street, Your City, Your Country  
-  - 📞 **Phone:** +123-456-7890  
-  - ✉️ **Email:** your.email@example.com  
-  - 🪖 **Military Status:** Completed / Serving / Exempt  
+  - 📍 **Address:** Cairo
+  - 📞 **Phone:** 01201505063
+  - ✉️ **Email:** ahmedeffatdiab@gmail.com  
+  - 🪖 **Military Status:** Completed 
 
 
 

@@ -77,21 +77,22 @@
 <p align="left">
 
   <!-- Data Structure -->
-  <img src="https://img.shields.io/badge/Data%20Structure-Theory%20%26%20Implementation-0a0a0a?style=flat-square&color=blue&labelColor=0a0a0a" alt="Data Structure Badge"/>
+  <img src="https://img.shields.io/badge/Data%20Structure-0a0a0a?style=flat-square&color=blue&labelColor=0a0a0a" alt="Data Structure Badge"/>
 
   <!-- Algorithm -->
-  <img src="https://img.shields.io/badge/Algorithm-Problem%20Solving-0a0a0a?style=flat-square&color=blue&labelColor=0a0a0a" alt="Algorithm Badge"/>
+  <img src="https://img.shields.io/badge/Algorithm-0a0a0a?style=flat-square&color=blue&labelColor=0a0a0a" alt="Algorithm Badge"/>
 
   <!-- OOP -->
-  <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-0a0a0a?style=flat-square&color=blue&labelColor=0a0a0a" alt="OOP Badge"/>
+  <img src="https://img.shields.io/badge/OOP-0a0a0a?style=flat-square&color=blue&labelColor=0a0a0a" alt="OOP Badge"/>
 
   <!-- Java -->
-  <img src="https://img.shields.io/badge/Java-Programming%20Language-007396?style=flat-square&logo=java&logoColor=white" alt="Java Badge"/>
+  <img src="https://img.shields.io/badge/Java-0a0a0a?style=flat-square&color=007396&logo=java&logoColor=white" alt="Java Badge"/>
 
   <!-- Web Performance Optimization -->
-  <img src="https://img.shields.io/badge/Web%20Performance-Optimization-0a0a0a?style=flat-square&color=green&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Web%20Performance%20Optimization-0a0a0a?style=flat-square&color=green&labelColor=0a0a0a" alt="Web Performance Optimization Badge"/>
 
 </p>
+
 
 
 

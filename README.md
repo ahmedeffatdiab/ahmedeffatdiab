@@ -73,6 +73,33 @@
   </a>
 
 </p>
+<p>👉 Back-end Development </p>
+<p align="left">
+
+  <!-- Node.js -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
+
+  <!-- Express.js -->
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js Badge"/>
+
+  <!-- MongoDB -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+
+  <!-- Prisma -->
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma Badge"/>
+
+  <!-- PostgreSQL -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+
+  <!-- RESTful API -->
+  <img src="https://img.shields.io/badge/RESTful%20API-00599C?style=flat-square&logo=api&logoColor=white" alt="RESTful API Badge"/>
+
+  <!-- Firebase -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase Badge"/>
+
+</p>
+
+
 <p>👉 Competitive Programming</p>
 <p align="left">
 

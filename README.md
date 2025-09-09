@@ -146,6 +146,7 @@
 
 </p>
 
+<h2>What I know 💻 </h2>
 <details>
   <summary>📄 Contact Details</summary>
 

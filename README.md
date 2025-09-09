@@ -146,6 +146,15 @@
 
 </p>
 
+<details>
+  <summary>📄 Contact Details</summary>
+
+  - 📍 **Address:** 123 Example Street, Your City, Your Country  
+  - 📞 **Phone:** +123-456-7890  
+  - ✉️ **Email:** your.email@example.com  
+  - 🪖 **Military Status:** Completed / Serving / Exempt  
+
+</details>
 
 
 

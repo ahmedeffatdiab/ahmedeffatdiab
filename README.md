@@ -32,54 +32,9 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js Badge"/>
   </a>
 
-  <!-- Redux -->
-  <a href="https://redux.js.org" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" alt="Redux Badge"/>
-  </a>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-  </a>
-
-  <!-- TypeScript -->
+<!-- TypeScript -->
   <a href="https://www.typescriptlang.org" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
-  </a>
-
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML Badge"/>
-  </a>
-
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS Badge"/>
-  </a>
-
-  <!-- Sass -->
-  <a href="https://sass-lang.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass Badge"/>
-  </a>
-
-  <!-- jQuery -->
-  <a href="https://jquery.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery Badge"/>
-  </a>
-
-  <!-- UI/UX -->
-  <a href="https://www.figma.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/UI/UX-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="UI/UX Badge"/>
-  </a>
-
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS Badge"/>
-  </a>
-
-  <!-- Material UI -->
-  <a href="https://mui.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI Badge"/>
   </a>
 
   <!-- Shadcn UI -->
@@ -87,12 +42,68 @@
     <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=vercel&logoColor=white" alt="Shadcn UI Badge"/>
   </a>
 
+  <!-- Material UI -->
+  <a href="https://mui.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI Badge"/>
+  </a>
+
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS Badge"/>
+  </a>
+
+  <!-- Redux -->
+  <a href="https://redux.js.org" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" alt="Redux Badge"/>
+  </a>
+
+<!-- Context API -->
+<a href="https://reactjs.org/docs/context.html" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Context_API-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="Context API Badge"/>
+</a>
+
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
   </a>
 
 </p>
+
+  <!-- jQuery -->
+  <a href="https://jquery.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery Badge"/>
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  </a>
+  
+  <!-- Sass -->
+  <a href="https://sass-lang.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass Badge"/>
+  </a>
+
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS Badge"/>
+  </a>
+
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML Badge"/>
+  </a>
+
+  <!-- UI/UX -->
+  <a href="https://www.figma.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/UI/UX-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="UI/UX Badge"/>
+  </a>
+
+
+
+
+
+
 
 <p>👉 Back-end Development </p>
 <p align="left">

@@ -89,7 +89,7 @@
   <img src="https://img.shields.io/badge/Java-Programming%20Language-007396?style=flat-square&logo=java&logoColor=white" alt="Java Badge"/>
 
   <!-- Web Performance Optimization -->
-  <img src="https://img.shields.io/badge/Web%20Performance-Optimization-0a0a0a?style=flat-square&color=green&labelColor=0a0a0a" alt="Web Performance Optimization Badge"/>
+  <img src="https://img.shields.io/badge/Web%20Performance-Optimization-0a0a0a?style=flat-square&color=green&labelColor=0a0a0a" />
 
 </p>
 

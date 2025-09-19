@@ -3,7 +3,7 @@
 </h1>
 ## 👋 Hi, I’m [Your Name]
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5000&pause=1000&color=2FAD9D&center=true&vCenter=true&width=600&lines=Frontend+Developer;Reactjs+Developer;Nextjs+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5000&pause=1000&color=2FAD9D&center=true&vCenter=true&width=800&lines=Frontend+Developer;Reactjs+Developer;Nextjs+Developer)](https://git.io/typing-svg)
 
 
 

@@ -1,4 +1,6 @@
 <h1 align="center">Hi, I'm Ahmed Effat👋 </h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2FAD9D&center=true&vCenter=true&width=600&lines=Frontend+Developer;Reactjs+Developer;Nextjs+Developer)
+
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100021871160175" ><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logo=facebook&logoColor=white" alt="image"/></a>
 <!--   <a href="#" ><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white" alt="image"/></a> -->
